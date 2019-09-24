@@ -17,10 +17,18 @@ Hoteller i Denver:
 
 * Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole
 
+Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse.
+
+I skal desuden indtaste Advanced Passenger Information (APIS) hos jeres flyselskab, se info-side hos SAS:
+https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
+
 Agenda
 ------
 
-SC19 programmet: https://sc19.supercomputing.org/program/
+* SC19 programmet: https://sc19.supercomputing.org/program/
+
+* Registrering til *Technical Program* senest 16/10: https://sc19.supercomputing.org/attend/register/
+SIGHPC membership sparer $125.
 
 Torsdag 14/11
 -------------
@@ -38,6 +46,7 @@ Fredag 15/11
 * Niels Carl, Hans Henrik, Ole:
 Besøg hos Dell Technologies Briefing Center i Round Rock (Austin, Texas).
 Thue og Henrik fra Dell arrangerer.
+Lars Halborg (Atea) deltager.
 
 * Pietro, Jannick, Erik, Nicolai: 
 HP-CAST 33 konference
@@ -71,7 +80,7 @@ https://www.dellhpc.org/november2019.html
 Tirsdag 19/11
 -------------
 
-* 8:30-10 SC19 Keynote Address:	Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
+* 8:30-10 SC19 Keynote Address: Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
 
 Onsdag 20/11
 ------------
@@ -89,8 +98,7 @@ Onsdag 20/11
 Torsdag 21/11
 -------------
 
-* 12:15-13:15 Slurm Community BoF, Location401-402-403-404.
+* 12:15-13:15 Slurm Community BoF, Location 401-402-403-404.
  https://sc19.supercomputing.org/session/?sess=sess308
 
 * 18-21 Technical Program Reception, Becky Verastegui
-	
