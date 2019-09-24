@@ -13,11 +13,11 @@ Deltagere:
 * Pietro Bortolozzo <pbor@dtu.dk>
 * Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 51801620
 
-Hoteller i Denver:
+Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
 * Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole
 
-Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse.
+Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse: https://esta.cbp.dhs.gov/esta/
 
 I skal desuden indtaste Advanced Passenger Information (APIS) hos jeres flyselskab, se info-side hos SAS:
 https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
