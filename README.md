@@ -4,13 +4,13 @@ DeIC sysadmin gruppens deltagelse i SC19
 
 Deltagere:
 
-Erik B. Madsen <erikm@sdu.dk>
-Hans Henrik Happe <happe@nbi.dk>
-Jannick Visling <janvi@sdu.dk>
-Niels Carl Hansen <ncwh@cscaa.dk>
-Claudio Pica <pica@cp3.sdu.dk>
-Pietro Bortolozzo <pbor@dtu.dk>
-Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk>
+* Erik B. Madsen <erikm@sdu.dk>
+* Hans Henrik Happe <happe@nbi.dk>
+* Nicolai Geleijns <nng@sdu.dk> +45 24984193
+* Jannick Visling <janvi@sdu.dk>
+* Niels Carl Hansen <ncwh@cscaa.dk>
+* Pietro Bortolozzo <pbor@dtu.dk>
+* Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 51801620
 
 Hoteller i Denver:
 
@@ -27,7 +27,7 @@ Rejse til USA:
 * Niels Carl, Hans Henrik, Ole: Rejser til Austin (AUS).
 Afrejse CPH torsdag 14/11 BA811 til LHR 07:00, ank. 08:10.  BA191 til AUS 11:20, ank. 15:55.
 
-* Pietro, Jannick, Erik, Claudio: Rejser til Denver (DEN)
+* Pietro, Jannick, Erik, Nicolai: Rejser til Denver (DEN)
 
 Fredag 15/11
 ------------
@@ -36,7 +36,7 @@ Fredag 15/11
 Besøg hos Dell Technologies Briefing Center i Round Rock (Austin, Texas).
 Thue og Henrik fra Dell arrangerer.
 
-* Pietro, Jannick, Erik, Claudio: 
+* Pietro, Jannick, Erik, Nicolai: 
 HP-CAST 33 konference
 https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/hp-cast.html
 
@@ -46,7 +46,7 @@ Lørdag 16/11
 * Niels Carl, Hans Henrik, Ole:
 Afrejse AUS lørdag 16/11 AA1326 til DEN 10:31 (mellemlanding 0:48 i DFW), ank.  13:36. 
 
-* Pietro, Jannick, Erik, Claudio: 
+* Pietro, Jannick, Erik, Nicolai: 
 HP-CAST 33 konference 
 
 Søndag 17/11
