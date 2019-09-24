@@ -1,4 +1,5 @@
 # SC19
+
 DeIC sysadmin gruppens deltagelse i SC19
 ----------------------------------------
 
@@ -18,6 +19,8 @@ Hoteller i Denver:
 
 Agenda
 ------
+
+SC19 programmet: https://sc19.supercomputing.org/program/
 
 Torsdag 14/11
 -------------
@@ -63,8 +66,12 @@ Mandag 18/11
 * DellEMC HPC Community event
 https://www.dellhpc.org/november2019.html
 
+* 19-21 Gala Opening Reception, Exhibit Halls A, B, E and F
+
 Tirsdag 19/11
 -------------
+
+* 8:30-10 SC19 Keynote Address:	Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
 
 Onsdag 20/11
 ------------
@@ -82,5 +89,8 @@ Onsdag 20/11
 Torsdag 21/11
 -------------
 
-12:15-13:15 Slurm Community BoF, Location401-402-403-404.
+* 12:15-13:15 Slurm Community BoF, Location401-402-403-404.
  https://sc19.supercomputing.org/session/?sess=sess308
+
+* 18-21 Technical Program Reception, Becky Verastegui
+	
