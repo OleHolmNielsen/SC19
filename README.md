@@ -19,8 +19,10 @@ Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
 Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse: https://esta.cbp.dhs.gov/esta/
 
-I skal desuden indtaste Advanced Passenger Information (APIS) hos jeres flyselskab, se info-side hos SAS:
-https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
+I skal desuden indtaste Advanced Passenger Information (APIS) hos jeres flyselskab:
+
+* SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
+* BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
 Agenda
 ------
