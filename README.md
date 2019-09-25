@@ -5,7 +5,7 @@ DeIC sysadmin gruppens deltagelse i SC19
 
 Deltagere:
 
-* Erik B. Madsen <erikm@sdu.dk>
+* Erik B. Madsen <erikm@sdu.dk> +45 60112399
 * Hans Henrik Happe <happe@nbi.dk>
 * Nicolai Geleijns <nng@sdu.dk> +45 24984193
 * Jannick Visling <janvi@sdu.dk>
@@ -16,6 +16,8 @@ Deltagere:
 Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
 * Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole
+* Grand Hyatt Denver, 1750 Welton St: Jannick, Nicolai, Erik
+
 
 Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse: https://esta.cbp.dhs.gov/esta/
 
