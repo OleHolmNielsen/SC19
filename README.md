@@ -92,6 +92,8 @@ Tirsdag 19/11
 
 * 8:30-10 SC19 Keynote Address: Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
 
+* 19-21 HPE/Cray kundereception. Location: ??
+
 Onsdag 20/11
 ------------
 
