@@ -26,7 +26,7 @@ I skal desuden indtaste Advanced Passenger Information (APIS) hos jeres flyselsk
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
-* Registrering til *Technical Program* senest 16/10: https://sc19.supercomputing.org/attend/register/
+Registrering til *Technical Program* senest 16/10: https://sc19.supercomputing.org/attend/register/
 SIGHPC membership sparer $125.
 
 Agenda
@@ -76,7 +76,11 @@ Mandag 18/11
 
 * 10:00-11:00 NDA møde med Intel (Thor Dahlstedt), location: ??
 
-* 12:00-14:00 NDA møde med Lenovo (Karl Hansen), location: ??
+* 12:00-13:00 NDA møde med Lenovo (Karl Hansen), location: Keep Away
+
+* 15:00-16:00 NDA møde med HPE (Jeppe Bjerring), location: ??
+
+* 16:00-16:30 HPE NDA hardware suite (Jeppe Bjerring), location: ??
 
 * DellEMC HPC Community event
 https://www.dellhpc.org/november2019.html
