@@ -78,9 +78,9 @@ Mandag 18/11
 
 * 12:00-13:00 NDA møde med Lenovo (Karl Hansen), location: Keep Away
 
-* 15:00-16:00 NDA møde med HPE (Jeppe Bjerring), location: ??
+* 15:00-16:00 NDA møde med HPE (Jeppe Bjerring), location: Agate A, 3rd Floor, Hyatt Regency, 650 15th street
 
-* 16:00-16:30 HPE NDA hardware suite (Jeppe Bjerring), location: ??
+* 16:00-16:30 HPE NDA hardware suite (Jeppe Bjerring), location: Hyatt Regency, 650 15th street
 
 * DellEMC HPC Community event
 https://www.dellhpc.org/november2019.html
