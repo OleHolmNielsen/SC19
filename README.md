@@ -97,6 +97,8 @@ Tirsdag 19/11
 Onsdag 20/11
 ------------
 
+* 9:00-10:00 Nvidia NDA meeting. Location: Sheraton Downtown Hotel, 1550 Court Pl.
+
 * IBM session (2h). Preben Jacobsen har sendt et oplæg til agenda:
 
   * HPC og AI workloads
