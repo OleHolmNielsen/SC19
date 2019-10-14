@@ -68,7 +68,7 @@ HP-CAST 33 konference
 Søndag 17/11
 ------------
 
-* Intel HPC Developer Conference 17-18/11
+* Intel HPC Developer Conference 17-18/11, location: The Ellie Caulkins Opera House, 1385 Curtis Street.
 https://inteleventexpress.com/one-intel-station/welcome.htm
 
 Mandag 18/11
@@ -111,6 +111,9 @@ Onsdag 20/11
 
 Torsdag 21/11
 -------------
+
+* 9:00-10:00 NDA møde med DellEMC (Thue Stahl). Location: ??
+* 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). 
 
 * 12:15-13:15 Slurm Community BoF, Location 401-402-403-404.
  https://sc19.supercomputing.org/session/?sess=sess308
