@@ -92,6 +92,16 @@ Tirsdag 19/11
 
 * 8:30-10 SC19 Keynote Address: Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
 
+* 14:15-15:00 Invited talk: Scientific Machine Learning. Location Mile High Ballroom
+
+* 17:15-18:45 BOF: TOP500 Supercomputers. Location Mile High Ballroom
+
+* 17:15-18:45 BOF: Lustre Community BoF: Lustre in HPC, AI, and the Cloud. Location 205-207
+
+* 17:15-18:45 BOF: Ceph in HPC Environments. Location 601-603
+
+* 17:15-18:45 BOF: Can Arm Take the Lead in HPC? Location 301-302-303
+
 * 19-21 HPE/Cray kundereception. Location: ??
 
 Onsdag 20/11
@@ -107,6 +117,12 @@ Onsdag 20/11
   * IBM og RedHat - new business
   * kundecases - fx CORAL project
 
+* 12:15-13:15 BOF: Getting Scientific Software Installed (Lmod, EasyBuild). Location 405-406-407
+
+* 12:15-13:15 BOF: BeeGFS – Architecture, Innovative Implementations, and Development Plans. Location 301-302-303
+
+* 17:15-18:45 BOF: Containers in HPC. Location 405-406-407
+
 * Aften: Dansker-middag med leverandører og deres danske kunder (vi betaler selv).
 
 Torsdag 21/11
@@ -116,6 +132,7 @@ Torsdag 21/11
 * 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). 
 
 * 12:15-13:15 Slurm Community BoF, Location 401-402-403-404.
- https://sc19.supercomputing.org/session/?sess=sess308
+
+* 12:15-13:15 Python for High Performance and Scientific Computing. Location 705-707-709
 
 * 18-21 Technical Program Reception, Becky Verastegui
