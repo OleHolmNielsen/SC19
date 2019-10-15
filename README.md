@@ -128,8 +128,9 @@ Onsdag 20/11
 Torsdag 21/11
 -------------
 
-* 9:00-10:00 NDA møde med DellEMC (Thue Stahl). Location: ??
-* 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). 
+* 9:00-10:00 NDA møde med DellEMC (Thue Stahl). Location: Grand Hyatt Denver Atrium Conference Center, 555 17th St., 2nd Floor
+
+* 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). Location: Grand Hyatt 2nd Floor
 
 * 12:15-13:15 BOF: Slurm Community BoF, Location 401-402-403-404.
 
