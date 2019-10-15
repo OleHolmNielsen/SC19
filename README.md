@@ -131,8 +131,8 @@ Torsdag 21/11
 * 9:00-10:00 NDA møde med DellEMC (Thue Stahl). Location: ??
 * 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). 
 
-* 12:15-13:15 Slurm Community BoF, Location 401-402-403-404.
+* 12:15-13:15 BOF: Slurm Community BoF, Location 401-402-403-404.
 
-* 12:15-13:15 Python for High Performance and Scientific Computing. Location 705-707-709
+* 12:15-13:15 BOF: Python for High Performance and Scientific Computing. Location 705-707-709
 
 * 18-21 Technical Program Reception, Becky Verastegui
