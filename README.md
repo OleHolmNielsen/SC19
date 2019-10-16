@@ -121,7 +121,7 @@ Onsdag 20/11
 
 * 12:15-13:15 BOF: BeeGFS – Architecture, Innovative Implementations, and Development Plans. Location 301-302-303
 
-* 15:00-16:00 Mellanox NDA meeting (Neta-ly Harari). Location: Hilton Denver City Center, 1701 California St., Lower Level 1, Penrose Ballroom 1. 
+* 15:00-16:00 Mellanox NDA meeting (Neta-ly Harari). Location: Hilton Denver City Center, 1701 California St., Lower Level 1, Denver 2.
 
 * 17:15-18:45 BOF: Containers in HPC. Location 405-406-407
 
