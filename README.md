@@ -121,6 +121,8 @@ Onsdag 20/11
 
 * 12:15-13:15 BOF: BeeGFS – Architecture, Innovative Implementations, and Development Plans. Location 301-302-303
 
+* 15:00-16:00 Mellanox NDA meeting (Neta-ly Harari). Location: ??
+
 * 17:15-18:45 BOF: Containers in HPC. Location 405-406-407
 
 * Aften: Dansker-middag med leverandører og deres danske kunder (vi betaler selv).
