@@ -82,7 +82,7 @@ Mandag 18/11
 
 * 16:00-16:30 HPE NDA hardware suite (Jeppe Bjerring), location: Hyatt Regency, 650 15th street
 
-* 15:00-17:00 NVIDIA special event. Location: Sheraton Denver Downtown, 1550 Court Pl. (tilmelding nødvendig)
+* 15:00-17:00 NVIDIA special event. Location: Sheraton Denver Downtown, 1550 Court Pl., Plaza Ballroom (tilmelding nødvendig)
 
 * DellEMC HPC Community event
 https://www.dellhpc.org/november2019.html
@@ -103,6 +103,8 @@ Tirsdag 19/11
 * 17:15-18:45 BOF: Ceph in HPC Environments. Location 601-603
 
 * 17:15-18:45 BOF: Can Arm Take the Lead in HPC? Location 301-302-303
+
+* 19-22 Lenovo kundereception. Location: *For the Win*, 500 16th St Mall #340.
 
 * 19-21 HPE/Cray kundereception. Location: ??
 
@@ -135,6 +137,8 @@ Torsdag 21/11
 * 9:00-10:00 NDA møde med DellEMC (Thue Stahl). Location: Grand Hyatt Denver Atrium Conference Center, 555 17th St., 2nd Floor
 
 * 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). Location: Grand Hyatt 2nd Floor
+
+* 11:00-12:00 NDA møde med AMD (Thue Stahl arrangerer). Location: ??
 
 * 12:15-13:15 BOF: Slurm Community BoF, Location 401-402-403-404.
 
