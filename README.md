@@ -113,13 +113,12 @@ Onsdag 20/11
 
 * 9:00-10:00 Nvidia NDA meeting. Location: Sheraton Downtown Hotel, 1550 Court Pl.
 
-* IBM session (2h). Preben Jacobsen har sendt et oplæg til agenda:
+* 9:00-11:00 IBM session (tilmelding til David Beyer):
 
   * HPC og AI workloads
   * Workload scheduling i komplekse miljøer
   * High Performance Storage Update
   * IBM og RedHat - new business
-  * kundecases - fx CORAL project
 
 * 12:15-13:15 BOF: Getting Scientific Software Installed (Lmod, EasyBuild). Location 405-406-407
 
