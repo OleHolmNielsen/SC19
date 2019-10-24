@@ -120,6 +120,8 @@ Onsdag 20/11
   * High Performance Storage Update
   * IBM og RedHat - new business
 
+* 10:30-11:30 Huawei NDA meeting (Francis Lam). Location: ???
+
 * 12:15-13:15 BOF: Getting Scientific Software Installed (Lmod, EasyBuild). Location 405-406-407
 
 * 12:15-13:15 BOF: BeeGFS – Architecture, Innovative Implementations, and Development Plans. Location 301-302-303
