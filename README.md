@@ -132,6 +132,8 @@ Onsdag 20/11
 
 * Aften: Dansker-middag med leverandører og deres danske kunder (vi betaler selv).
 
+* 18:30 - 22:00 Mellanox Event (tilmelding nødvendig). Location: Hilton Denver City Center, 1701 California Street.
+
 Torsdag 21/11
 -------------
 
