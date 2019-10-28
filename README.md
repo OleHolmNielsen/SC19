@@ -147,4 +147,6 @@ Torsdag 21/11
 
 * 12:15-13:15 BOF: Python for High Performance and Scientific Computing. Location 705-707-709
 
-* 18-21 Technical Program Reception, Becky Verastegui
+* 18-21 Technical Program Reception. Location: Wings Over the Rockies Air & Space Museum,
+  Busser fra Convention Center Lobby fra 17:30.
+  Se https://sc19.supercomputing.org/session/?sess=sess216
