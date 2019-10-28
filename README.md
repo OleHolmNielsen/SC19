@@ -141,7 +141,7 @@ Torsdag 21/11
 
 * 10:00-11:00 DellEMC NDA whisper suite (Thue Stahl). Location: Grand Hyatt 2nd Floor
 
-* 11:00-12:00 NDA møde med AMD (Thue Stahl arrangerer). Location: ??
+* 11:00-12:00 NDA møde med AMD (Thue Stahl arrangerer). Location: Rock Bottom Brewery, 1001 16th St. on the corner of 16th St. Mall & Curtis St., meeting room 4.
 
 * 12:15-13:15 BOF: Slurm Community BoF, Location 401-402-403-404.
 
