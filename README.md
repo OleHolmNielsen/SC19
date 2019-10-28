@@ -150,3 +150,4 @@ Torsdag 21/11
 * 18-21 Technical Program Reception. Location: Wings Over the Rockies Air & Space Museum,
   Busser fra Convention Center Lobby fra 17:30.
   Se https://sc19.supercomputing.org/session/?sess=sess216
+  Museum web-site: https://wingsmuseum.org/museum/visit/
