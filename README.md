@@ -113,13 +113,6 @@ Onsdag 20/11
 
 * 9:00-10:00 Nvidia NDA meeting. Location: Sheraton Downtown Hotel, 1550 Court Pl.
 
-* 9:00-11:00 IBM session (tilmelding til David Beyer):
-
-  * HPC og AI workloads
-  * Workload scheduling i komplekse miljøer
-  * High Performance Storage Update
-  * IBM og RedHat - new business
-
 * 10:30-11:30 Huawei NDA meeting (Francis Lam). Location: ???
 
 * 12:15-13:15 BOF: Getting Scientific Software Installed (Lmod, EasyBuild). Location 405-406-407
@@ -146,6 +139,13 @@ Torsdag 21/11
 * 12:15-13:15 BOF: Slurm Community BoF, Location 401-402-403-404.
 
 * 12:15-13:15 BOF: Python for High Performance and Scientific Computing. Location 705-707-709
+
+* 14:00-16:00 IBM session. Location: ??
+
+  * HPC og AI workloads
+  * Workload scheduling i komplekse miljøer
+  * High Performance Storage Update
+  * IBM og RedHat - new business
 
 * 18-21 Technical Program Reception. Location: Wings Over the Rockies Air & Space Museum,
   Busser fra Convention Center Lobby fra 17:30.
