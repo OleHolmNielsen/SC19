@@ -125,7 +125,7 @@ Onsdag 20/11
 
 * 18:30-22:00 Mellanox Event (tilmelding nødvendig). Location: Hilton Denver City Center, 1701 California Street.
 
-* 19:00-22:00 Fælles dansker aften (for egen regning) (Lars Halborg). Location: Wynkoop Brewing Company & Cherry Cricket Ballpark, 1634 18th Street, https://wynkoop.com/
+* 19:00-22:00 Fælles dansker aften (for egen regning) (Lars Halborg). Location: Fogo de Chão, 1513 Wynkoop St., https://fogodechao.com/location/denver/
 
 Torsdag 21/11
 -------------
