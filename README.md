@@ -94,6 +94,8 @@ Tirsdag 19/11
 
 * 8:30-10 SC19 Keynote Address: Exploring the Solar System with the Power of Technology, Steven Squyres. Location: Mile High Ballroom
 
+* 11:00-12:00 Møde med SpectraLogic om tape storage, tilmelding via Hans Henrik.
+
 * 14:15-15:00 Invited talk: Scientific Machine Learning. Location Mile High Ballroom
 
 * 17:15-18:45 BOF: TOP500 Supercomputers. Location Mile High Ballroom
