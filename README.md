@@ -11,6 +11,7 @@ Deltagere:
 * Jannick Visling <janvi@sdu.dk>
 * Niels Carl Hansen <ncwh@cscaa.dk>
 * Pietro Bortolozzo <pbor@dtu.dk>
+* Mads Boye <mb@its.aau.dk>
 * Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 51801620
 
 Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
