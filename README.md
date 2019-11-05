@@ -18,7 +18,7 @@ Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
 * Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole
 * Grand Hyatt Denver, 1750 Welton St: Jannick, Nicolai, Erik
-
+* Holiday Inn Express Denver Downtown: Mads
 
 Husk at checke eller forny jeres ESTA ansøgning senest 72 timer før afrejse: https://esta.cbp.dhs.gov/esta/
 
@@ -56,6 +56,8 @@ Lars Halborg (Atea) deltager.
 * Pietro, Jannick, Erik, Nicolai: 
 HP-CAST 33 konference
 https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/hp-cast.html
+
+* Mads: Ankomst til Denver.
 
 Lørdag 16/11
 ------------
