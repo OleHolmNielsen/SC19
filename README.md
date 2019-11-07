@@ -118,7 +118,7 @@ Onsdag 20/11
 
 * 9:00-10:00 Nvidia NDA meeting. Location: Sheraton Downtown Hotel, 1550 Court Pl.
 
-* 10:30-11:30 Huawei NDA meeting (Francis Lam). Location: ???
+* 10:30-11:30 Huawei NDA meeting (Francis Lam). Location: Former Saint Craft Kitchen and Taps (inside Hyatt Regency), 650 15th St., https://formersaintdenver.com/
 
 * 12:15-13:15 BOF: Getting Scientific Software Installed (Lmod, EasyBuild). Location 405-406-407
 
