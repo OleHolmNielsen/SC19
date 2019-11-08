@@ -5,14 +5,14 @@ DeIC sysadmin gruppens deltagelse i SC19
 
 Deltagere:
 
-* Erik B. Madsen <erikm@sdu.dk> +45 60112399
-* Hans Henrik Happe <happe@nbi.dk>
-* Nicolai Geleijns <nng@sdu.dk> +45 24984193
-* Jannick Visling <janvi@sdu.dk>
-* Niels Carl Hansen <ncwh@cscaa.dk>
-* Pietro Bortolozzo <pbor@dtu.dk>
-* Mads Boye <mb@its.aau.dk>
-* Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 51801620
+* Erik B. Madsen <erikm@sdu.dk> +45 6011 2399
+* Hans Henrik Happe <happe@nbi.dk> Opkald: +45 3532 5419, SMS: +45 2993 6343
+* Nicolai Geleijns <nng@sdu.dk> +45 2498 4193
+* Jannick Visling <janvi@sdu.dk> +45 2683 8000
+* Niels Carl Hansen <ncwh@cscaa.dk> +45 6020 2635
+* Pietro Bortolozzo <pbor@dtu.dk> +45 2221 5686
+* Mads Boye <mb@its.aau.dk> +45 9940 3453
+* Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 5180 1620
 
 Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
@@ -43,7 +43,7 @@ Rejse til USA:
 * Niels Carl, Hans Henrik, Ole: Rejser til Austin (AUS).
 Afrejse CPH torsdag 14/11 BA811 til LHR 07:00, ank. 08:10.  BA191 til AUS 11:20, ank. 15:55.
 
-* Pietro, Jannick, Erik, Nicolai: Rejser til Denver (DEN)
+* Pietro, Jannick, Erik, Nicolai: Rejser til Denver (DEN), ank. 15:45.
 
 Fredag 15/11
 ------------
