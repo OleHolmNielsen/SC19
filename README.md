@@ -16,7 +16,7 @@ Deltagere:
 
 Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
 
-* Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole
+* Magnolia Hotel Denver, 818 17th St: Niels Carl, Pietro, Ole, Hans Henrik
 * Grand Hyatt Denver, 1750 Welton St: Jannick, Nicolai, Erik
 * Holiday Inn Express Denver Downtown: Mads
 
@@ -43,7 +43,7 @@ Rejse til USA:
 * Niels Carl, Hans Henrik, Ole: Rejser til Austin (AUS).
 Afrejse CPH torsdag 14/11 BA811 til LHR 07:00, ank. 08:10.  BA191 til AUS 11:20, ank. 15:55.
 
-* Pietro, Jannick, Erik, Nicolai: Rejser til Denver (DEN), ank. 15:45.
+* Pietro, Jannick, Erik, Nicolai, Mads: Rejser til Denver (DEN), ank. 15:45.
 
 Fredag 15/11
 ------------
