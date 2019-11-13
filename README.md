@@ -77,7 +77,7 @@ https://inteleventexpress.com/one-intel-station/welcome.htm
 Mandag 18/11
 ------------
 
-* 10:00-11:00 NDA møde med Intel (Thor Dahlstedt), location: ??
+* 10:00-11:00 NDA møde med Intel (Thor Dahlstedt), location: Room "Mt Harvard", Grand Hyatt Denver, 1750 Welton St.
 
 * 12:00-13:00 NDA møde med Lenovo (Karl Hansen), location: Keep Away
 
