@@ -43,7 +43,7 @@ Rejse til USA:
 * Niels Carl, Hans Henrik, Ole: Rejser til Austin (AUS).
 Afrejse CPH torsdag 14/11 BA811 til LHR 07:00, ank. 08:10.  BA191 til AUS 11:20, ank. 15:55.
 
-* Pietro, Jannick, Erik, Nicolai, Mads: Rejser til Denver (DEN), ank. 15:45.
+* Pietro, Jannick, Erik, Nicolai: Rejser til Denver (DEN), ank. 15:45.
 
 Fredag 15/11
 ------------
@@ -57,7 +57,7 @@ Lars Halborg (Atea) deltager.
 HP-CAST 33 konference
 https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/hp-cast.html
 
-* Mads: Ankomst til Denver.
+* Mads: Ankomst til Denver 14:35.
 
 Lørdag 16/11
 ------------
@@ -76,6 +76,9 @@ https://inteleventexpress.com/one-intel-station/welcome.htm
 
 Mandag 18/11
 ------------
+
+* 9:00-12:30 6th International Workshop on HPC User Support Tools (HUST-19), Location: 605
+  https://sc19.supercomputing.org/session/?sess=sess116
 
 * 10:00-11:00 NDA møde med Intel (Thor Dahlstedt), location: Room "Mt Harvard", Grand Hyatt Denver, 1750 Welton St.
 
@@ -156,3 +159,9 @@ Torsdag 21/11
   Busser fra Convention Center Lobby fra 17:30.
   Se https://sc19.supercomputing.org/session/?sess=sess216
   Museum web-site: https://wingsmuseum.org/museum/visit/
+
+Fredag 22/11
+------------
+
+* 8:30-12:00 HPC Systems Professionals Workshop (HPCSYSPROS19), Location: 405-406-407
+https://sc19.supercomputing.org/session/?sess=sess129
