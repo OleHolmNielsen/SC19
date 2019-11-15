@@ -11,7 +11,7 @@ Deltagere:
 * Jannick Visling <janvi@sdu.dk> +45 2683 8000
 * Niels Carl Hansen <ncwh@cscaa.dk> +45 6020 2635
 * Pietro Bortolozzo <pbor@dtu.dk> +45 2221 5686
-* Mads Boye <mb@its.aau.dk> +45 9940 3453
+* Mads Boye <mb@its.aau.dk> +45 2680 5960
 * Ole Holm Nielsen <ole.h.nielsen@fysik.dtu.dk> +45 5180 1620
 
 Hoteller i Denver: https://sc19.supercomputing.org/attend/housing/
@@ -57,8 +57,6 @@ Lars Halborg (Atea) deltager.
 HP-CAST 33 konference
 https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/hp-cast.html
 
-* Mads: Ankomst til Denver 14:35.
-
 Lørdag 16/11
 ------------
 
@@ -67,6 +65,8 @@ Afrejse AUS lørdag 16/11 AA1326 til DEN 10:31 (mellemlanding 0:48 i DFW), ank. 
 
 * Pietro, Jannick, Erik, Nicolai: 
 HP-CAST 33 konference 
+
+* Mads: Ankomst til Denver 14:35.
 
 Søndag 17/11
 ------------
