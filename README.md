@@ -88,7 +88,7 @@ Mandag 18/11
 
 * 16:00-16:30 HPE NDA hardware suite (Jeppe Bjerring), location: Hyatt Regency, 650 15th street
 
-* 15:00-17:00 NVIDIA special event. Location: Sheraton Denver Downtown, 1550 Court Pl., Plaza Ballroom (tilmelding nødvendig)
+* 15:00-17:00 NVIDIA special event. Location: Sheraton Denver Downtown, 1550 Court Pl., Director's Row H (tilmelding nødvendig)
 
 * DellEMC HPC Community event
 https://www.dellhpc.org/november2019.html
