@@ -114,7 +114,7 @@ Tirsdag 19/11
 
 * 19-22 Lenovo kundereception. Location: *For the Win*, 500 16th St Mall #340.
 
-* 19-21 HPE/Cray kundereception. Location: ??
+* 19-21 HPE/Cray kundereception. Location: Sheraton Denver Downtown Hotel, 1550 Court Place, Plaza Ballroom
 
 Onsdag 20/11
 ------------
