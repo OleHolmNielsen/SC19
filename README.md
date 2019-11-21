@@ -148,7 +148,7 @@ Torsdag 21/11
 
 * 12:15-13:15 BOF: Python for High Performance and Scientific Computing. Location 705-707-709
 
-* 14:00-16:00 IBM session (David Beyer). Location: IBM booth 1525 kl. 13:45, gå til mødet derfra.
+* 14:00-16:00 IBM session (David Beyer). Location: Hyatt Regency, 650 15th street, Granite B 3rd floor.
 
   * HPC og AI workloads
   * Workload scheduling i komplekse miljøer
